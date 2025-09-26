@@ -1,10 +1,10 @@
 {
 "products": [
-  {"id": 1, "name": "Laptop", "price": 700, "stock": 5},
-  {"id": 2, "name": "Smartphone", "price": 400, "stock": 10},
-  {"id": 3, "name": "Headset", "price": 50, "stock": 15},
-  {"id": 4, "name": "SmartWatch", "price": 500, "stock": 30},
-  {"id": 5, "name": "PC", "price": 1500, "stock": 15},
-  {"id": 6, "name": "Tablet", "price": 900, "stock": 5}
+  {"name": "Laptop", "price": 700, "stock": 5},
+  {"name": "Smartphone", "price": 400, "stock": 10},
+  {"name": "Headset", "price": 50, "stock": 15},
+  {"name": "SmartWatch", "price": 500, "stock": 30},
+  {"name": "PC", "price": 1500, "stock": 15},
+  {"name": "Tablet", "price": 900, "stock": 5}
 ]
 }
